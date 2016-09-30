@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rate My Record</string>
+    <string-array name="sMusic">
+        <item>Back in Black</item>
+        <item>Hotel California</item>
+        <item>Crazy Train</item>
+    </string-array>
+    <string name="btnPlay">Play Song</string>
+    <string name="btnStop">Pause Song</string>
+
+</resources>
